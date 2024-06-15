@@ -20,8 +20,8 @@ De même, l'espacement entre les trous et la longeur des trous sont modifiables 
 
 Logiciel : OpenSCAD (gratuit)
 
-[Lien fichier stl - collier dessous - largeur 14mm](/Astronomie/Modeles_3D/Collier_tube/attache_lunette_diy_v2_bas_L14.stl)
-[Lien fichier stl - collier dessus - largeur 14mm](/Astronomie/Modeles_3D/Collier_tube/attache_lunette_diy_v2_haut_L14.stl)
+[Lien fichier stl - collier dessous - largeur 14mm](/Modeles_3D/Collier_tube/attache_lunette_diy_v2_bas_L14.stl)
+[Lien fichier stl - collier dessus - largeur 14mm](/Modeles_3D/Collier_tube/attache_lunette_diy_v2_haut_L14.stl)
 [Lien fichier stl - collier complet sans rotule - largeur 12mm](/Modeles_3D/Collier_tube/collier_lunette_diy_L12.stl)
 [Lien fichier source](/Modeles_3D/Collier_tube/collier_lunette_diy_v2.scad)
 
