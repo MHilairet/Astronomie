@@ -7,7 +7,7 @@ Le code tourne sur une carte Arduino UNO et émule le "protocol Avalon" de l'UPA
 
 The code runs on an Arduino UNO board and emulates the UPAS "Avalon protocol". In the first version, the code was tested with A4988 and TMC2130 power drivers.
 
-Le système est en cours de développement pour une monture EQ5 / The system is under development for an EQ5 mount. Coming soon stay tuned.
+Le système est en cours de développement pour des montures EQ5/EQ6 / The system is under development for an EQ5/EQ6 mounts. Coming soon stay tuned.
 
 ![OAPAS_1](OAPAS_1.png)
 ![OAPAS_2](OAPAS_2.png)
