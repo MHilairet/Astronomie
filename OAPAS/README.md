@@ -9,7 +9,7 @@ The code runs on an Arduino UNO board and emulates the UPAS "Avalon protocol". I
 
 Le système est en cours de développement pour des montures EQ5/EQ6 / The system is under development for an EQ5/EQ6 mounts. Coming soon stay tuned.
 
-![OAPAS_1](OAPAS_1.png | width=100)
+![OAPAS_1](OAPAS_1.png) {width=10}
 ![OAPAS_2](OAPAS_2.png)
 
 A first test with NINA by selecting the UPAS for Avalon.
