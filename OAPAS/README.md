@@ -14,8 +14,10 @@ Le système est en cours de développement pour des montures EQ5/EQ6 / The syste
 
 A first test with NINA by selecting the UPAS for Avalon :
 ![OAPAS_3](OAPAS_2026_03_28_A_small.mp4)
+
 A second test with Polar Alignment, Windows executable from Avalon :
 ![OAPAS_4](OAPAS_2026_03_28_B.mp4)
+
 Finally, you can also used our own Python GUI interface
 ![OAPAS_5](opas_interface_v1.png)
 
