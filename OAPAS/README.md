@@ -11,3 +11,6 @@ Le système est en cours de développement pour des montures EQ5/EQ6 / The syste
 
 ![OAPAS_1](OAPAS_1.png)
 ![OAPAS_2](OAPAS_2.png)
+
+A first test with NINA by selecting the UPAS for Avalon.
+![OAPAS_3](OAPAS_2026_03_28_B.mp4)
