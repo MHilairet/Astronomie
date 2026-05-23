@@ -2,23 +2,29 @@
 
 ## Support pour un polemaster sur une monture Avalon / Polemaster support with an Avalon mount
 
-Logiciel : OpenSCAD (gratuit)
+Logiciel/tool : OpenSCAD (gratuit/free)
 
 ![polemaster support](/Modeles_3D/avalon/avalon_polemaster.png)
 ![vixen_polemaster support](/Modeles_3D/avalon/avalon_vixen_for_polar_alignment.png)
 
 ## Diverses bagues en M42 et M48 / M42 and M48 Various rings/adapters
 
-Logiciel : OpenSCAD (gratuit)
+Logiciel/tool : OpenSCAD (gratuit/free)
 
 ![adapter_M42F_M48M](/Modeles_3D/bagues/bagues_M42F_M48M.png)
 ![adapter_M42M_M42M](/Modeles_3D/bagues/bagues_M42M_M42M.png)
 
 ## Mini Vixen for C8 Celestron
 
-Logiciel : OpenSCAD (gratuit)
+Logiciel/tool : OpenSCAD (gratuit/free)
 
 ![mini_vixen_C8](/Modeles_3D/C8/mini_vixen_C8.png)
+
+## Takahashi FS60-CB mask
+
+Logiciel/tool : OpenSCAD (gratuit/free)
+
+![taka_fs60_bahtinov_mask](/Modeles_3D/Takahashi/Takahasi_FS60CB_Bhatinov_Mask.png)
 
 
 ## Queue_Aronde_Vixen_APN : Queue d'aronde Vixen adaptée aux APN
