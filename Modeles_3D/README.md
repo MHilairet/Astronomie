@@ -20,7 +20,7 @@ Logiciel/tool : OpenSCAD (gratuit/free)
 
 ![mini_vixen_C8](/Modeles_3D/C8/mini_vixen_C8.png)
 
-## Takahashi FS60-CB mask
+## Takahashi FS60-CB Bahtinov mask
 
 Logiciel/tool : OpenSCAD (gratuit/free)
 
