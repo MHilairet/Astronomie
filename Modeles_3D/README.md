@@ -1,5 +1,16 @@
 # Modeles 3D :
 
+## Support pour un polemaster sur une monture Avalon / Polemaster support with an Avalon mount
+
+Logiciel : OpenSCAD (gratuit)
+![polemaster support](//Modeles_3D/avalon/avalon_polemaster.png)
+![vixen_polemaster support](//Modeles_3D/avalon/avalon_vixen_for_polar_alignment.png)
+
+## Diverses bagues en M42 et M48
+
+Logiciel : OpenSCAD (gratuit)
+
+
 ## Queue_Aronde_Vixen_APN : Queue d'aronde Vixen adaptée aux APN
 
 Logiciel : [Onshape](https://www.onshape.com/fr/) (gratuit)
