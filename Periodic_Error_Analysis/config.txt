@@ -1,2 +1,2 @@
-astap,D:\ProgrammeFileSurD\astap\astap.exe
-ps3,D:\ProgrammeFileSurD\Platesolve3_80\PlateSolve3.80.exe
+Astap, put here the link of the asap exe
+ps3, put here the link of the platesolve3 exe
