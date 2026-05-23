@@ -7,9 +7,18 @@ Logiciel : OpenSCAD (gratuit)
 ![polemaster support](/Modeles_3D/avalon/avalon_polemaster.png)
 ![vixen_polemaster support](/Modeles_3D/avalon/avalon_vixen_for_polar_alignment.png)
 
-## Diverses bagues en M42 et M48
+## Diverses bagues en M42 et M48 / M42 and M48 Various rings/adapters
 
 Logiciel : OpenSCAD (gratuit)
+
+![adapter_M42F_M48M](/Modeles_3D/bagues/bagues_M42F_M48M.png)
+![adapter_M42M_M42M](/Modeles_3D/bagues/bagues_M42M_M42M.png)
+
+## Mini Vixen for C8 Celestron
+
+Logiciel : OpenSCAD (gratuit)
+
+![mini_vixen_C8](/Modeles_3D/C8/mini_vixen_C8.png)
 
 
 ## Queue_Aronde_Vixen_APN : Queue d'aronde Vixen adaptée aux APN
