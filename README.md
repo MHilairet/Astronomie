@@ -3,8 +3,10 @@
 
 > A folder containing various 3D-modeled parts to print or adapt to your project
 
-1. Queue d'aronde Vixen adaptée aux APN / Vixen Dovetail for Digital Cameras
-2. Collier pour fixer une lunette DIY (cf. https://github.com/LeCocherAstro) et adapté à la queue d'aronde ci-dessus / Collar for attaching a DIY telescope (see https://github.com/LeCocherAstro) adapted to the dovetail above.
+1. Support pour un polemaster sur une monture Avalon / Avalon support for polemaster
+2. Bagues M42, M48 / M42, M48 Rings
+3. Queue d'aronde Vixen adaptée aux APN / Vixen Dovetail for Digital Cameras
+4. Collier pour fixer une lunette DIY (cf. https://github.com/LeCocherAstro) et adapté à la queue d'aronde ci-dessus / Collar for attaching a DIY telescope (see https://github.com/LeCocherAstro) adapted to the dovetail above.
 
 
 # Script en Python d'analyse de l'erreur périodique / Periodic Error Analysis script in Python
