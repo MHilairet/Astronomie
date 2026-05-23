@@ -8,7 +8,7 @@
 
 
 # Script en Python d'analyse de l'erreur périodique / Periodic Error Analysis script in Python
-> Ce script calcule l'erreur périodique d'une monture à partir d'uns astrométrie des fichiers fits
+> Ce script calcule l'erreur périodique d'une monture à partir d'une astrométrie des fichiers fits
 
 > A script compute the Periodic Error of a mount based on a plate solve of fits file
 
