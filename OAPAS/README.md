@@ -48,7 +48,7 @@ See stl_file_version_2 directory
 ## References :
 
 * **TPPA** – https://github.com/isbeorn/nina.plugin.polaralignment
-* **INDI AAPAS** – https://github.com/michelebergo/indi-aapa
+* **INDI-OAPA** – https://github.com/michelebergo/indi-oapa
 * **Serial Alt‑Az Polar Alignment Controller (ESP32 / GRBL / MPU-6500)** https://github.com/Totoleheros/tppa-compliant-motorized-polar-alignment
 
 
